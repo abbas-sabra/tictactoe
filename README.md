@@ -4,7 +4,7 @@ Welcome to Tic Tac Toe, a classic game built with Python and Pygame library, but
 ## Installation
 1. **Clone the repository to your local machine using the following command:**
 
-   `git clone https://github.com/abbas-sabra/tictactoe`
+   `git clone https://github.com/abbas-sabra/tictactoe.git`
 
 2. **Install Pygame by running the following command:**
 
